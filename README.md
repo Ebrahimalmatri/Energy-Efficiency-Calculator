@@ -15,3 +15,4 @@ t: Duration of usage in hours (h)
 3. The program will provide a detailed analysis of the energy saved per month
 ## Sustainability Impact
 This project helps in understanding how minimizing energy dissipation in household appliances contributes to reducing the carbon footprint and optimizing resource management.
+##This calculator is calibrated according to the official 2026 Dubai Electricity and Water Authority (DEWA) residential slab tariff system, including fuel surcharges and VAT, ensuring real-world accuracy for UAE resident
