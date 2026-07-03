@@ -10,9 +10,10 @@ t: Duration of usage in hours (h)
 1. Calculate the monthly electricity cost of specific appliances.
 2. Demonstrate the physical and economic impact of replacing legacy appliances with high-efficiency alternatives.
 ## Usage
-1. Run the `calculator.py` file.
-2. Input the power rating of the old device, the power rating of the new (sustainable) device, and the daily usage hours.
-3. The program will provide a detailed analysis of the energy saved per month
+1. Run the `calculator.py` file in your preferred Python environment (e.g., PyCharm).
+2. Input your total monthly electricity consumption in kilowatt-hours (kWh).
+3. The program will automatically calculate your bill based on DEWA's progressive slab tariff, including fuel surcharges and VAT.
+4. Review the detailed breakdown of your electricity costs.
 ## Sustainability Impact
 This project helps in understanding how minimizing energy dissipation in household appliances contributes to reducing the carbon footprint and optimizing resource management.
 ##This calculator is calibrated according to the official 2026 Dubai Electricity and Water Authority (DEWA) residential slab tariff system, including fuel surcharges and VAT, ensuring real-world accuracy for UAE resident
